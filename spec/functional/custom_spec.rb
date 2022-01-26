@@ -1,8 +1,5 @@
 require 'spec_helper'
 
-#######################################################
-# DO NOT CHANGE THIS FILE - WRITE YOUR OWN SPEC FILES #
-#######################################################
 RSpec.describe 'App Functional Test' do
   describe 'dollar and percent formats sorted by first_name' do
 
